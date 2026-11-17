@@ -1,0 +1,2 @@
+C:\Users\stacorp\Downloads\w64devkit\bin\ar.exe qc Demo.vxp CMakeFiles/main_vxp.dir/null_main_vxp.cpp.obj
+C:\Users\stacorp\Downloads\w64devkit\bin\ranlib.exe Demo.vxp

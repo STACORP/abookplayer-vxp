@@ -1,0 +1,2 @@
+C:\Users\stacorp\Downloads\w64devkit\bin\ar.exe qc libmreapi.a CMakeFiles/mreapi.dir/null.cpp.obj
+C:\Users\stacorp\Downloads\w64devkit\bin\ranlib.exe libmreapi.a
