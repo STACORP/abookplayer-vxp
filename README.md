@@ -12,4 +12,5 @@ Features:
 * karaoke mode with various screensavers and LRC subtitle file support (starting with ver. 1.1);
 * ID3 tag support (starting with ver. 1.1);
 * volume controls via menu or hardware keys (starting with ver. 1.1);
-* in-app help (starting with ver. 1.2).
+* in-app help (starting with ver. 1.2);
+* touchscreen support (starting with ver. 1.2).
